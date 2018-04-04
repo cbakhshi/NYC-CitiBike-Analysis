@@ -76,19 +76,24 @@
 	* It increases
 
 * What is the average distance in miles that a bike is ridden?
-	* Need help for the following questions
+	* 1.14 Miles
 
 * Which Bikes (by ID) are most likely due for repair or inspection this year? 
+	* Bike ID: 31815 most likely due for repair
 
 * How variable is the utilization by bike ID?
+	* Very - a few bikes are utilized a lot, while the others are only used a handful of times.
 
 
 **Additionally, city officials would like to see the following visualizations:**
 
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
+	* See the dashboard.
 
 * A dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
 
 **Lastly, as a chronic over-achiever, you must also:**
 
 * Find at least two unexpected phenomena in the data and provide a visualization and analysis to document their presence. 
+	* One bike has been ridden over 10,000 miles. The next closest bike was ridden around 5,000 miles. 
+	* People bike to NJ. NJ isn't even a real state.
